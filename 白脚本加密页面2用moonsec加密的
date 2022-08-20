@@ -1,6 +1,1 @@
-
-if getgenv().baiscript=="作者修狗，白脚本" then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/wev666666/bai--script--all-script------/main/%E7%99%BD%E8%84%9A%E6%9C%AC%E5%8A%A0%E8%BD%BD%E7%95%8C%E9%9D%A2'),true))()
-else
-game.Players.LocalPlayer:Kick("错误的钥匙")
-end
